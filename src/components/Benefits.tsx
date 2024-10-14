@@ -35,7 +35,7 @@ const Benefits = () => {
                 </h3>
                 <p className="text-gray-200">
                   At Acme Logistics, we take pride in our proven track record of
-                  excellence and our deep understanding of Africa's unique
+                  excellence and our deep understanding of Africas unique
                   logistics landscape. With years of experience, we have
                   established ourselves as a trusted partner for businesses
                   across the continent.
